@@ -1,9 +1,9 @@
 # Municipality Casualties Dashboard | לוח בקרה - נפגעים לפי רשות
+https://casualty-dashboard-israel-yxkjzaaercqfosykck5knd.streamlit.app/
 
 This interactive, bilingual Streamlit dashboard visualizes reported casualties, deaths, and hospitalizations across Israeli municipalities.
 
 לוח בקרה אינטראקטיבי וד־לשוני המציג נתוני נפגעים, נפטרים ואשפוזים לפי רשויות בישראל.
-https://casualty-dashboard-israel-gdnjhvmqukpjt4w7rsheqc.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,show_padding,disable_scrolling,show_footer,dark_theme
 ---
 
 ## Features | תכונות עיקריות
